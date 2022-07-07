@@ -12,7 +12,7 @@ const Banner = () => {
           </p>
           <p>
             Atualmente buscando o caminho de desenvolvedor full-stack com
-            experiência em Javascript.
+            experiência em Javascript e framework React.
           </p>
           <p>
             Este site vai mostrar o meu progesso ao longo dos cursos e evoluirá
