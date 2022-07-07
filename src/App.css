@@ -1,5 +1,6 @@
 /*TESTE DO BANNER CSS*/
 .containerMSG {
+  text-align: justify;
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -9,6 +10,7 @@
   color: #fff;
 }
 .boxMSG {
+  text-align: justify;
   width: 900px;
   height: 500px;
   background: #121212;
@@ -18,10 +20,12 @@
   font-family: "Press Start 2P";
   font-size: 10px;
   font-style: italic;
+  text-align: justify;
 }
 .bannerMSG{
   width: 800px;
   height: 400px;
+  text-align: justify;
 }
 
 /*Fontes customizadas*/
