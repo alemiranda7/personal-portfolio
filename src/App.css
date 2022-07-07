@@ -9,9 +9,19 @@
   color: #fff;
 }
 .boxMSG {
-  width: 800px;
+  width: 900px;
   height: 500px;
   background: #121212;
+}
+.footerMSG{
+  padding-top: 10px;
+  font-family: "Press Start 2P";
+  font-size: 10px;
+  font-style: italic;
+}
+.bannerMSG{
+  width: 800px;
+  height: 400px;
 }
 
 /*Fontes customizadas*/
