@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img src="./components/assets/img/bannerMSG.gif" alt="My cool first img"/>
+<img src="./src/components/assets/img/bannerMSG.gif" alt="My cool first img"/>
 
 ## Available Scripts
 
