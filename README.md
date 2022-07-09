@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![e4e11649ebd8e4acc7a0700d99cb90c9](https://user-images.githubusercontent.com/25187149/177863040-72af0047-3125-48c4-bbcf-42f4df0acb11.gif)
 
+É meu primeiro site. Estou usando o VS Code e estudando pelos cursos das plataformas udemy e origamid.
+
+Atualmente buscando o caminho de desenvolvedor full-stack com experiência em Javascript e framework React.
+
+Este site vai mostrar o meu progesso ao longo dos cursos e evoluirá para um portfólio responsivo, esteticamente agradável e totalmente construído! =D
 
 ## Available Scripts
 
